@@ -6,4 +6,4 @@ meu nome é Fernando Timoteo Paredes
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projeto desenvolvidos
 
-- ![descrição do GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icegif.com%2Fbear-14%2F&psig=AOvVaw2ONIAeBnFRLKDVE8s143FX&ust=1719333933209000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqGAoTCMCWxqDY9IYDFQAAAAAdAAAAABCVAQ)
+- ![descrição do GIF](https://blog.hubspot.com/hs-fs/hubfs/Smiling%20Leo%20Perfect%20GIF.gif?width=595&height=400&name=Smiling%20Leo%20Perfect%20GIF.gif)
